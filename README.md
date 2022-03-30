@@ -1,0 +1,1 @@
+Es un programa sencillo donde se podrá crear las figuras más comunes, tanto abiertas como cerradas, partiendo de unas clases padre y utilizando modulos como matplotlib, numpy, abc y otros.
